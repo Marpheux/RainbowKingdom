@@ -1,0 +1,10 @@
+dud	100	100
+Marpher	100	11
+Arangel	100	22
+Farag	100	33
+EJ	100	44
+Heffa	100	55
+Fellar	100	66
+Juman	100	77
+Frogen	125	88
+BOSS	150	99
